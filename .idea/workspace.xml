@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebd90558-b8db-4b37-a4f6-404f8cf38bc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeCreateChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeCreateSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeDeleteChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeDeleteSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/CascadeCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/CascadeDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/CascadeRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Departments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Employees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/CascadeCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/CascadeDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/CascadeRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/DepartmentUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/EmplyeeUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/CascadeCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/CascadeDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/CascadeRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/PrintWithQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/UpdateWithQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JaTdmdEyFFHefbFSVbQW7aX2fe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JPA.DatabaseSchemaImportDialog": "ccb97863-fb67-41ae-86a5-edd5798d4d05",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5344828",
+    "settings.editor.selected.configurable": "database.query.execution"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.hibernate.task.manyToMany.entity" />
+      <recent name="com.hibernate.task.oneToMany.Uni.entity" />
+      <recent name="" />
+      <recent name="com.hibernate.task.oneToMany.entity" />
+      <recent name="com.hibernate.task.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CascadeDeleteChild">
+    <configuration name="CascadeCreateChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.task.manyToMany.CascadeCreateChildren" />
+      <module name="GeneralHibernate.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.task.manyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CascadeCreateSection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.task.manyToMany.CascadeCreateSection" />
+      <module name="GeneralHibernate.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.task.manyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CascadeDeleteChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.task.manyToMany.CascadeDeleteChild" />
+      <module name="GeneralHibernate.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.task.manyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CascadeDeleteSection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.task.manyToMany.CascadeDeleteSection" />
+      <module name="GeneralHibernate.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.task.manyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hibernate.task.manyToMany.CascadeRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernate.task.manyToMany.CascadeRead" />
+      <module name="GeneralHibernate.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernate.task.manyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CascadeDeleteChild" />
+        <item itemvalue="Application.CascadeDeleteSection" />
+        <item itemvalue="Application.com.hibernate.task.manyToMany.CascadeRead" />
+        <item itemvalue="Application.CascadeCreateChildren" />
+        <item itemvalue="Application.CascadeCreateSection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd90558-b8db-4b37-a4f6-404f8cf38bc5" name="Changes" comment="" />
+      <created>1672315287700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672315287700</updated>
+      <workItem from="1672315288979" duration="44675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
