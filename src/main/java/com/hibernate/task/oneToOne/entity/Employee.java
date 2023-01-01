@@ -8,16 +8,21 @@ import javax.persistence.*;
 @Getter
 @Setter
 public class Employee {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private Long id;
+
     @Column(name = "name")
     private String name;
+
     @Column(name = "surname")
     private String surname;
+
     @Column(name = "department")
     private String department;
+
     @Column(name = "salary")
     private Integer salary;
 
@@ -28,6 +33,8 @@ public class Employee {
     public Employee(){
 
     }
+
+
     public Employee(String name, String surname, String department, Integer salary) {
         this.name = name;
         this.surname = surname;

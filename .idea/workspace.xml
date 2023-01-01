@@ -5,45 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd90558-b8db-4b37-a4f6-404f8cf38bc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeCreateChildren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeCreateSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeDeleteChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeDeleteSection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/CascadeRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Section.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/CascadeCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/CascadeDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/CascadeRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Departments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/CascadeCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/CascadeDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/CascadeRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/DepartmentUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/EmplyeeUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/CascadeCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/CascadeDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/CascadeRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/PrintWithQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/UpdateWithQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Detail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Children.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Children.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/manyToMany/entity/Section.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Departments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Departments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Bi/entity/Employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/DepartmentUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/DepartmentUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/EmplyeeUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToMany/Uni/entity/EmplyeeUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernate/task/oneToOne/entity/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672315287700</updated>
-      <workItem from="1672315288979" duration="44675000" />
+      <workItem from="1672315288979" duration="46085000" />
     </task>
     <servers />
   </component>

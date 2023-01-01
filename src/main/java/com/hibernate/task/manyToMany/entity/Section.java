@@ -5,6 +5,7 @@ import lombok.Setter;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
+
 @Entity
 @Table(name = "section", schema = "many_to_many")
 @Getter
@@ -14,8 +15,10 @@ public class Section {
     @Id
     @Column(name = "id", nullable = false)
     private Integer id;
+
     @Column(name = "name")
     private String name;
+
     @ManyToMany(cascade = {CascadeType.DETACH, CascadeType.MERGE, CascadeType.PERSIST, CascadeType.REFRESH})
     @JoinTable(name = "children_section", schema = "many_to_many", catalog = "general_hibernate"
             , joinColumns = @JoinColumn(name = "section_id")
@@ -25,6 +28,7 @@ public class Section {
 
     public Section() {
     }
+
     public Section(String name) {
         this.name = name;
     }

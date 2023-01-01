@@ -11,6 +11,7 @@ import java.util.List;
 @Getter
 @Setter
 public class DepartmentUni {
+
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     @Column(name = "id", nullable = false)

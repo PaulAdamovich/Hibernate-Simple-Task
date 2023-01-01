@@ -15,12 +15,16 @@ public class Departments {
     @Id
     @Column(name = "id", nullable = false)
     private Long id;
+
     @Column(name = "name")
     private String name;
+
     @Column(name = "max_salary")
     private Long maxSalary;
+
     @Column(name = "min_salary")
     private Long minSalary;
+
     @OneToMany(cascade = CascadeType.ALL
             , mappedBy = "department"
             , fetch = FetchType.LAZY )
@@ -33,6 +37,7 @@ public class Departments {
 
     public Departments() {
     }
+
     public void addEmployeeToDepartment(Employees employee){
         if(employeeList == null) {
             employeeList = new ArrayList<>();
